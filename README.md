@@ -6,6 +6,9 @@ I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 
 Hire me! 😊
 
+Compute mean mu and standard deviation sigma. For higher dimensions, calculate covariance matrix.
+
+Use Matlab macro fit or python function scikit.
 
 I included some posts for reference.
 
